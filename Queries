@@ -1,0 +1,43 @@
+CREATE TABLE `Youtube`.`channels` (
+  `rank` VARCHAR(50) NULL,
+  `grade` VARCHAR(45) NULL,
+  `username` VARCHAR(100) NULL,
+  `uploads` VARCHAR(45) NULL,
+  `subs` VARCHAR(45) NULL,
+  `views` VARCHAR(45) NULL,
+  `channel_id` VARCHAR(45) NULL);
+  category
+  
+
+  
+  CREATE TABLE `Youtube`.`datewise_channel` (
+  `date` VARCHAR(50) NULL,
+  `subscribers` VARCHAR(50) NULL,
+  `views` VARCHAR(55) NULL,
+  `earnings` VARCHAR(55) NULL,
+  `channel_id` VARCHAR(45) NULL);
+
+  
+  
+  CREATE TABLE `Youtube`.`most_viewed` (
+  `channel_id` VARCHAR(50) NULL,
+  `comments` VARCHAR(45) NULL,
+  `created_at` VARCHAR(45) NULL,
+  `duration` VARCHAR(45) NULL,
+  `rating` VARCHAR(45) NULL,
+  `ratings` VARCHAR(45) NULL,
+  `title` VARCHAR(200) NULL,
+  `video_id` VARCHAR(45) NULL,
+  `views` VARCHAR(45) NULL);
+
+  
+  
+  
+  LOAD DATA LOCAL INFILE '/Users/sivarams/Downloads/most_viewed_output.csv'
+     INTO TABLE Youtube.most_viewed
+     CHARACTER SET utf8mb4
+     FIELDS TERMINATED BY ',' 
+     ENCLOSED BY '"' 
+     LINES TERMINATED BY '\r\n'
+     IGNORE 1 LINES
+     (channel_id,comments,created_at,duration,rating,ratings,title,video_id,views)

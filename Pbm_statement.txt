@@ -1,0 +1,59 @@
+* KEYWORD ANALYSIS : 
+    * Provides in-depth YouTube keyword analysis to identify tags that are performing for your videos 
+* TAGS SUGGESTIONS : 
+    * Get suggestion for YouTube tags which can help increase search ability of your videos 
+* BEST TIME TO UPLOAD :
+    * Find out what people are actually searching for and create videos accordingly 
+* UNDERSTAND YOUR AUDIENCE :
+    * Find out other creators, videos and genres that your audience is engaging with 
+* BUILD NEW AUDIENCE :
+    * Engage with viewers who are watching your content, but not subscribing to your channel 
+* VIDEO ANALYSIS :
+    * Get a detailed analysis of any of your competitor's videos 
+* NEW CONTENT IDEAS :
+    * Before creating any content, you can research different Facebook & YouTube content creators, topics & sub categories that people are looking for 
+* TREND ANALYSIS :
+    * Analyse the trends across categories & geography to build your video’s content strategy around it 
+* TOPIC SUGGESTION :
+    * Get new topic suggestion across genres that resonates to your audience 
+
+* likes and comment count instead of views - Correlation
+* Which video remained the most on the trending-videos list?
+* How many videos contain a fully-capitalized word in their titles?
+* What are the lengths/playtime of video? Is this length related to the video becoming most views?
+* How are views, likes, dislikes, comment count, title length, and other attributes correlate with (relate to) each other? How are they connected?
+* What are the most common words in most viewed video titles?
+* Which YouTube channels have the largest number of most viewed videos across category?
+* Which video category (e.g. Entertainment, Gaming, Comedy, etc.) has the largest number of trending videos?
+* When were most viewed/popular videos published? On which days of the week? at which times of the day?
+* What's the most viewed type and category?
+* The metrics stats have the same distribuition to all category's?
+* Whats the most frequent words in titles, descriptions, tags?
+* Which type of category has more comments?
+
+Category
+* What is the most common content category that videos gets more views?
+Engagement
+* Users are more likely to engage(like, dislike, comment) in which category?
+* Do dislikes affect whether a video will be viral?
+* What types of videos will be disliked?
+    * what tags are most common in disliked videos?
+    * what tags are most common in liked videos?
+* How much do subscriber count matter?
+Titles and Descriptions
+* What is the most common bigram in the title?
+* How important is the description?
+* What is the most common title length(# of words)?
+* How long is the video title?
+* Is title a question?
+Tags
+* How many tags do viral videos have?
+* What is the most common tag?
+* Do videos with controversial tags go viral?
+    * what tags are most common in disliked videos?
+    * what tags are most common in liked videos?
+Time
+* What is the best time of the day to post?
+* How long does a video take to become viral?
+* How long is the most viewed video?
+
